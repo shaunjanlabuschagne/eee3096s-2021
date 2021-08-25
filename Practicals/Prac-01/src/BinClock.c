@@ -205,8 +205,9 @@ void hourInc(void){
 		printf("Interrupt 1 triggered, %x\n", hours);
 		//fetch RTC time
 		hours  = hexCompensation(wiringPiI2CReadReg8(RTC,  HOUR_REGISTER));
+		hours = hFormat(hours);
 		//increase hours by 1, ensuring not to overflow
-		if(hours < 12){
+		if(hours < 11){
 			hours+=1;
 		}
 		else{

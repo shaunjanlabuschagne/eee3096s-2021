@@ -1,0 +1,30 @@
+There are 100000 samples
+using type <type 'float'>
+0:00:00.495949
+There are 100000 samples
+using type <type 'float'>
+0:00:00.495479
+There are 100000 samples
+using type <type 'float'>
+0:00:00.433495
+There are 100000 samples
+using type <type 'float'>
+0:00:00.470154
+There are 100000 samples
+using type <type 'float'>
+0:00:00.546008
+There are 100000 samples
+using type <type 'float'>
+0:00:00.496329
+There are 100000 samples
+using type <type 'float'>
+0:00:00.499126
+There are 100000 samples
+using type <type 'float'>
+0:00:00.466780
+There are 100000 samples
+using type <type 'float'>
+0:00:00.568467
+There are 100000 samples
+using type <type 'float'>
+0:00:00.738241

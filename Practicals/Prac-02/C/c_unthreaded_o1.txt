@@ -1,0 +1,70 @@
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 7.087111 ms
+End Unthreaded Test
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 5.223082 ms
+End Unthreaded Test
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 7.057111 ms
+End Unthreaded Test
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 5.198082 ms
+End Unthreaded Test
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 5.076080 ms
+End Unthreaded Test
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 5.088081 ms
+End Unthreaded Test
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 5.196082 ms
+End Unthreaded Test
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 5.133081 ms
+End Unthreaded Test
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 5.216082 ms
+End Unthreaded Test
+bin/CHeterodyning
+Running Unthreaded Test
+Precision sizeof 4
+Total amount of samples: 100000
+Clock resolution: 1 ns
+Time: 5.273083 ms
+End Unthreaded Test

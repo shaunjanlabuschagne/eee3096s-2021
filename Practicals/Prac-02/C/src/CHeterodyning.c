@@ -1,13 +1,13 @@
 #include "CHeterodyning.h"
 
-extern float data [SAMPLE_COUNT];
-extern float carrier[SAMPLE_COUNT];
+extern double data [SAMPLE_COUNT];
+extern double carrier[SAMPLE_COUNT];
 
-float result [SAMPLE_COUNT];
+double result [SAMPLE_COUNT];
 
 int main(int argc, char**argv){
     printf("Running Unthreaded Test\n");
-    printf("Precision sizeof %ld\n", sizeof(float));
+    printf("Precision sizeof %ld\n", sizeof(double));
     
 
     printf("Total amount of samples: %ld\n", sizeof(data) / sizeof(data[0]));

@@ -103,11 +103,11 @@ def setup():
     global pwmBuzzer
     GPIO.setup(buzzer, GPIO.OUT)
     pwmBuzzer = GPIO.PWM(buzzer, 0.5)
-    pwmBuzzer.start(50)
+    pwmBuzzer.start(0.1)
     
     # Setup debouncing and callbacks
-    GPIO.add_event_detect(btn_increase, GPIO.FALLING, callback = btn_increase_pressed, bouncetime = 200)
-    GPIO.add_event_detect(btn_submit, GPIO.FALLING, callback = btn_guess_pressed, bouncetime = 200)
+    GPIO.add_event_detect(btn_increase, GPIO.FALLING, callback = btn_increase_pressed, bouncetime = 500)
+    GPIO.add_event_detect(btn_submit, GPIO.FALLING, callback = btn_guess_pressed, bouncetime = 500)
 
 
 
@@ -247,7 +247,6 @@ def btn_guess_pressed(channel):
             accuracy_leds()
     
 
-        pass
 
 
 # LED Brightness
